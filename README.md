@@ -1,4 +1,4 @@
-# 📊 E-Commerce Conversion & User Behavior Analysis 
+# 📊 Superstore Sales Analysis
 
 ## 📌 Project Overview
 This project analyzes retail sales data to uncover key business insights related to sales performance, profitability, and customer trends. It combines Python-based data analysis with an interactive Power BI dashboard and automated reporting.
